@@ -1,6 +1,0 @@
-vs2022无法启动程序,xxxxxx.dll不是有效的win32程序：
-https://ask.csdn.net/questions/1090112?sort=id
-
-详见1.png
-
-就是说一个解决方案下有多个项目，必须一个一个项目去运行才行.
