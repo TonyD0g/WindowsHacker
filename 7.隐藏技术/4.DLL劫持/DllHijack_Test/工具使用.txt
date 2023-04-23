@@ -1,0 +1,5 @@
+教程：
+https://www.writebug.com/git/Theevilspirit/DllHijack_Test
+
+工具下载：
+https://github.com/strivexjun/AheadLib-x86-x64/releases/tag/1.2
